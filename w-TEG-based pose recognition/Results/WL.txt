@@ -1,0 +1,13 @@
+Accuracy: 98.58156028368793% (98.58%)
+Precision: 98.00000000000001% (98.00%)
+Recall: 98.46153846153847% (98.46%)
+F1-score: 98.14736842105263% (98.15%)
+FLOPs: 29840 (0.03M)
+Params: 727 (0.00M)
+Validation loss: 0.26152777671813965 (0.262)
+
+fall - Train loss: 0.049712295085191725, Train accuracy: 1.0, Validation loss: 0.04632749408483505, Validation accuracy: 1.0
+stand - Train loss: 0.23888803124427796, Train accuracy: 1.0, Validation loss: 0.22409766912460327, Validation accuracy: 1.0
+walk - Train loss: 0.20810735523700716, Train accuracy: 1.0, Validation loss: 0.19682548940181732, Validation accuracy: 1.0
+run - Train loss: 0.331561416387558, Train accuracy: 1.0, Validation loss: 0.252509742975235, Validation accuracy: 1.0
+jump - Train loss: 0.661087155342102, Train accuracy: 0.8668831348419189, Validation loss: 0.6566270589828491, Validation accuracy: 0.9230769872665405
